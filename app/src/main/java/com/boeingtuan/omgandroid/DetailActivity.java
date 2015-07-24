@@ -18,7 +18,7 @@ public class DetailActivity extends ActionBarActivity {
 
     private static final String IMAGE_URL_BASE = "http://covers.openlibrary.org/b/id/";
     String mImageURL;
-    ShareActionProvider mShareActionProvider;
+    ShareActionProvider mShareActionProvider;;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
